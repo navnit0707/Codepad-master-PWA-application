@@ -1,0 +1,6 @@
+{
+  "name": "Codepad Masters, the best PWA in town",
+  "short_name": "Codepd Masters",
+  "start_url": "./",
+  "orientation": "all"
+}
