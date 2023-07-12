@@ -49,3 +49,20 @@ a javascript file running its own thread that will act as a middle ware offering
 - browser downlod resources on demnds , they served from the service worker or server
 - app consume web services
   offline works
+
+  ## caching Resources
+
+  - Serivcce worker has a local cache
+  - cache all or some resources
+  - javascript promises
+  - prefetch on installation
+  - cache on request
+  - appp shell pattern
+
+  ## serving resources
+
+  - the service worker will respond for every request the PWA mke
+  - it can serve from the cache
+  - it can forward the request to the network
+  - it can synthesize a response
+  - any mixed algorithm is possible
