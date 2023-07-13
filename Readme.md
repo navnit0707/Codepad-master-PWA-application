@@ -66,3 +66,12 @@ a javascript file running its own thread that will act as a middle ware offering
   - it can forward the request to the network
   - it can synthesize a response
   - any mixed algorithm is possible
+
+## all the native build version of different OS is kept inside native apks folder
+
+### available apks for os
+
+- IOS
+- ANDROID
+- WINDOWS
+- META
